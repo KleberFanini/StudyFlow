@@ -1,0 +1,7 @@
+.expo
+.expo/
+.expo/*
+node_modules/
+dist/
+web-build/
+npm-debug.*
